@@ -1,16 +1,16 @@
-
+//yapyapyap
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
-//≈¨∂Û¿Ãæ∆Æ∞° ø‰√ª«“∂ß->JAVA∞¥√º
+//ÌÅ¥ÎùºÏù¥Ïñ∏Ìä∏Í∞Ä ÏöîÏ≤≠Ìï†Îïå->JAVAÍ∞ùÏ≤¥
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
     <artifactId>jackson-databind</artifactId>
     <version>2.1.1</version>
 </dependency>
 
-//∞¥√º∑Œ ¿¿¥‰«“∂ß ->JSON∞¥√º
+//Í∞ùÏ≤¥Î°ú ÏùëÎãµÌï†Îïå ->JSONÍ∞ùÏ≤¥
 <dependency>
  	<groupId>org.codehaus.jackson</groupId> 
 	<artifactId>jackson-mapper-asl</artifactId> 
