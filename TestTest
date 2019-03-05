@@ -1,4 +1,7 @@
 int a == 5;
-if(a < 10){
+while(true){
+if(a < 7){
   system.out.println(a);
+  a++;
+}
 }
