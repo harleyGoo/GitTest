@@ -1,4 +1,4 @@
 int a == 5;
 if(a < 10){
-  system.out.println(a);
+  system.out.println(a+1);
 }
