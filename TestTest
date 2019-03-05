@@ -2,6 +2,6 @@ int a == 5;
 while(true){
 if(a < 7){
   system.out.println(a);
-  a++;
+  a++;    //jjjj
 }
 }
